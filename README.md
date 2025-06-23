@@ -17,7 +17,7 @@ The core objective of this project is to evaluate the performance of MLP and CNN
 
 ## 📊 Dataset
 
-We used the **[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)** (Extended MNIST) dataset, which contains balanced handwritten characters (letters and digits).
+Utilised the **[EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)** (Extended MNIST) dataset, which contains balanced handwritten characters (letters and digits).
 
 * Classes: 47 balanced character classes
 * Format: Grayscale, 28x28 pixel images
