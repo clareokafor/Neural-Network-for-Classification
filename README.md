@@ -76,4 +76,4 @@ While both MLPs and CNNs can perform character recognition, **CNNs** are better 
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](https://github.com/clareokafor/Neural-Network-for-Classification/blob/main/LICENSE).
